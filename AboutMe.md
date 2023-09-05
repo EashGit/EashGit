@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate college student.</h3>
 
 
-- 🔭 I’m in my 2nd year pursuing Btech CSE (AI&ML) in UPES, Dehradun.
+- 🔭 I'ma sophomore in college and I'm pursuing a course in Computer science.
 - 🌱 I’m currently learning Java!
 - 💬 My hobbies are reading, building legos, eating food and playing games.
 
