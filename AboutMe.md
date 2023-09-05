@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eashan Gupta</h1>
-<h3 align="center">I'm a passionate college student and have a keen interest in philosophy./h3>
+<h3 align="center">I'm a passionate college student and have a keen interest in philosophy.</h3>
 
 - 🔭 I’m in my 2nd year pursuing Btech CSE (AI&ML) in UPES, Dehradun.
 - 🌱 I’m currently learning Java!
